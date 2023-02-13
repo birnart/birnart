@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**birnart/birnart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, its Arthur
+SEEKING EXCITING PROJECTS
+🟪 Currently working on Datash
 
-Here are some ideas to get you started:
+🟩 Currently working on Running Buddy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔹 Ask me about anything!
+
+🔹 Reach me at abirnstiel6@gmail.com
+
+Languages and Tools:
+bootstrap sass figma redis postgresql rubyonrails html javascript css3 ruby git heroku github sublime
