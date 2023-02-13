@@ -11,4 +11,17 @@ Currently working Malkiel Investments Analysis Strategies
 🔹 Reach me at abirnstiel6@gmail.com
 
 Languages and Tools:
-bootstrap sass figma redis postgresql rubyonrails html javascript css3 ruby git heroku github sublime python
+- bootstrap
+- sass
+- figma
+- redis
+- postgresql
+- rubyonrails
+- html
+- javascript
+- css3 
+- ruby
+- git 
+- heroku 
+- github 
+- python
